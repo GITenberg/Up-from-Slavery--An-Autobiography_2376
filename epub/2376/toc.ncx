@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/2376" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.10.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Up from Slavery: an autobiography</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>UP FROM SLAVERY: AN AUTOBIOGRAPHY</text>
+      </navLabel>
+      <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html#pgepubid00000"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html#pgepubid00001"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html#pgepubid00002"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>UP FROM SLAVERY</text>
+      </navLabel>
+      <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html#pgepubid00003"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Chapter I. A Slave Among Slaves</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Chapter II. Boyhood Days</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-1.htm.html#pgepubid00005"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Chapter III. The Struggle For An Education</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-1.htm.html#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Chapter IV. Helping Others</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-2.htm.html#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Chapter V. The Reconstruction Period</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-2.htm.html#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Chapter VI. Black Race And Red Race</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-2.htm.html#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Chapter VII. Early Days At Tuskegee</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-3.htm.html#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Chapter VIII. Teaching School In A Stable And A Hen-House</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-3.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Chapter IX. Anxious Days And Sleepless Nights</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-3.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Chapter X. A Harder Task Than Making Bricks Without Straw</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-4.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Chapter XI. Making Their Beds Before They Could Lie On Them</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-4.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Chapter XII. Raising Money</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-4.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Chapter XIII. Two Thousand Miles For A Five-Minute Speech</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-5.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Chapter XIV. The Atlanta Exposition Address</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-5.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Chapter XV. The Secret Of Success In Public Speaking</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-6.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>Chapter XVI. Europe</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-6.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Chapter XVII. Last Words</text>
+        </navLabel>
+        <content src="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-7.htm.html#pgepubid00020"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
