@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:title>Up from Slavery: an autobiography</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Washington, Booker T.">Booker T. Washington</dc:creator>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/2376</dc:identifier>
+    <dc:date>2000-10-01T04:00:00+00:00</dc:date>
+    <dc:date opf:event="conversion">2013-03-13T10:36:21.156824+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/2376/2376-h/2376-h.htm</dc:source>
+    <dc:subject>Tuskegee Institute</dc:subject>
+    <dc:subject>Washington</dc:subject>
+    <dc:subject>Booker T.</dc:subject>
+    <dc:subject>1856-1915</dc:subject>
+    <dc:subject>African Americans -- Biography</dc:subject>
+    <dc:subject>Educators -- United States -- Biography</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8c16d22c-8c42-4b15-8a26-1d9dd835c927</dc:identifier>
+    <meta name="calibre:title_sort" content="Up from Slavery: an autobiography"/>
+    <meta name="calibre:author_link_map" content="{&quot;Booker T. Washington&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <item href="1.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=55362 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm.html" id="item4" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=53549 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-1.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=57678 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-2.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=56913 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-3.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=65566 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-4.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=57598 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-5.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=76821 Split on div-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-6.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=61331-->
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-7.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-7.htm_split1.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split1.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="_public_vhost_g_gutenberg_html_files_2376_2376-h_2376-h-0.htm_split2.html" id="id3" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="id1"/>
+  </spine>
+</package>
