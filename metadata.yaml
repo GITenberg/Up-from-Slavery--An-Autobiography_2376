@@ -1,0 +1,59 @@
+_repo: Up-from-Slavery--An-Autobiography_2376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
+description: "Up from Slavery is the 1901 autobiography of Booker T. Washington detailing\
+  \ his personal experiences in working to rise from the position of a slave child\
+  \ during the Civil War, to the difficulties and obstacles he overcame to get an\
+  \ education at the new Hampton University, to his work establishing vocational schools—most\
+  \ notably the Tuskegee Institute in Alabama—to help black people and other disadvantaged\
+  \ minorities learn useful, marketable skills and work to pull themselves, as a race,\
+  \ up by the bootstraps. He reflects on the generosity of both teachers and philanthropists\
+  \ who helped in educating blacks and Native Americans. He describes his efforts\
+  \ to instill manners, breeding, health and a feeling of dignity to students. His\
+  \ educational philosophy stresses combining academic subjects with learning a trade\
+  \ (something which is reminiscent of the educational theories of John Ruskin). Washington\
+  \ explained that the integration of practical subjects is partly designed to reassure\
+  \ the white community as to the usefulness of educating black people.\nThis book\
+  \ was first released as a serialized work in 1900 through The Outlook, a Christian\
+  \ newspaper of New York. This work was serialized because this meant that during\
+  \ the writing process, Washington was able to hear critiques and requests from his\
+  \ audience and could more easily adapt his paper to his diverse audience.\n\nWashington\
+  \ was a controversial figure in his own lifetime, and W. E. B. Du Bois, among others,\
+  \ criticized some of his views. The book was, however, a best-seller, and remained\
+  \ the most popular African American autobiography until that of Malcolm X. In 1998,\
+  \ the Modern Library listed the book at No. 3 on its list of the 100 best nonfiction\
+  \ books of the 20th century.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- African American Writers
+- Slavery
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2376'
+  wikidata: Q1568126
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Biography'
+- !lcc 'E151'
+- !lcsh 'Washington, Booker T., 1856-1915'
+- !lcsh 'Tuskegee Institute'
+- !lcsh 'Educators -- United States -- Biography'
+- GITenberg
+title: 'Up from Slavery: An Autobiography'
+url: http://www.gutenberg.org/ebooks/2376
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D4%B9%D5%B8%D5%A9%D5%A1%D6%83%D5%AB%D6%80_%D5%B7%D5%B2%D5%A9%D5%A1%D5%B6%D5%A5%D6%80%D5%A8
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BF%D1%80%D1%8F%D0%BD%D1%8C_%D0%BE%D1%82_%D1%80%D0%B0%D0%B1%D1%81%D1%82%D0%B2%D0%B0
+- https://sh.wikipedia.org/wiki/Up_from_Slavery
+- https://en.wikipedia.org/wiki/Up_from_Slavery
