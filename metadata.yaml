@@ -1,5 +1,8 @@
 _repo: Up-from-Slavery--An-Autobiography_2376
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: covers/UpFromSlavery_cover.jpg
 creator:
   author:
     agent_name: Washington, Booker T.
@@ -31,6 +34,8 @@ description: "Up from Slavery is the 1901 autobiography of Booker T. Washington 
   \ the most popular African American autobiography until that of Malcolm X. In 1998,\
   \ the Modern Library listed the book at No. 3 on its list of the 100 best nonfiction\
   \ books of the 20th century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2376#Up-from-Slavery--An-Autobiography
 gutenberg_bookshelf:
 - African American Writers
 - Slavery
